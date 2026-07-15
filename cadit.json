@@ -1,0 +1,19 @@
+{
+  "entryPoint": "main.ts",
+  "name": "Circle",
+  "description": "circle 3",
+  "license": {
+    "type": "cc-by-nc"
+  },
+  "images": [
+    {
+      "path": "images/thumbnail.png",
+      "isPrimary": true
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-07-15T07:13:10.878Z",
+    "createdWith": "cadit-web",
+    "designId": "neDyAbfuK7Fui4j"
+  }
+}
