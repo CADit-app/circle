@@ -2,7 +2,7 @@ import { Manifold } from 'manifold-3d/manifoldCAD';
 
 // Dimensions in millimeters
 const cutDepth = 15;      // Height needed to cut completely through the clay
-const imprintDepth = 2;   // Shorter height to just leave an impression
+const imprintDepth = 13;   // Shorter height to just leave an impression
 
 // Radii for the three concentric rings (adjust these to your desired size)
 const outerCutRadius = 30;

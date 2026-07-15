@@ -1,6 +1,6 @@
 # Circle
 
-![Circle](./images/thumbnail.png)
+![Circle](./images/thumbnail-evEhpVL_.png)
 
 circle 3
 
